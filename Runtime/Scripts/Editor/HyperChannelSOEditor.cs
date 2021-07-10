@@ -9,7 +9,7 @@ public class HyperChannelSOEditor : Editor
     public override void OnInspectorGUI()
     {
         base.OnInspectorGUI();
-        DrawDefaultInspector();
+
         if (GUILayout.Button("Raise"))
         {
             RaiseEvent();
