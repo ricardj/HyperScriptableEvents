@@ -10,7 +10,7 @@
         {
             "displayName": "Demo example",
             "description": "Contains a demo scene and some objects.",
-            "path": "Samples/Demo"
+            "path": "Samples~/Demo"
         }
     ]
 }
