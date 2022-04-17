@@ -1,12 +1,15 @@
 {
-	"name": "com.hyperboys.hyperscriptableevents",
-	"displayName":"HyperScriptableEvents",
-	"version": "2.0.0",
-	"unity": "2019.4",
-	"description": "Simple utility for event architecture in Unity",
-	"dependencies": {
-	},
-	"samples": [
-
-    ]
+  "name": "com.hyperboys.hyperscriptableevents",
+  "displayName": "HyperScriptableEvents",
+  "version": "2.0.0",
+  "unity": "2019.4",
+  "description": "Simple utility for event architecture in Unity",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Events sample",
+      "description": "Showcase on how to use the events",
+      "path": "Samples~/Demo"
+    }
+  ]
 }
